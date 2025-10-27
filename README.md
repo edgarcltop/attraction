@@ -1,7 +1,5 @@
 # Product Marketplace — Starter Plan & App Blueprint
 
-> This document is a complete starter guide for a Digital Product Marketplace (think Gumroad / Gumtree for digital goods). It includes: a recommended tech stack, features, data models, API surface, frontend pages, deployment notes, and next steps to turn this into a working codebase.
-
 ## 1 — Project overview
 
 A **Digital Product Marketplace** lets creators upload and sell digital products (ebooks, templates, audio, images, code, courses, plugins). Buyers browse, purchase, and download instantly. Platform features include payments, file hosting, versioning, licensing, analytics, and seller dashboards.
