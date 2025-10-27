@@ -1,4 +1,4 @@
-# Digital Product Marketplace — Starter Plan & App Blueprint
+# Product Marketplace — Starter Plan & App Blueprint
 
 > This document is a complete starter guide for a Digital Product Marketplace (think Gumroad / Gumtree for digital goods). It includes: a recommended tech stack, features, data models, API surface, frontend pages, deployment notes, and next steps to turn this into a working codebase.
 
